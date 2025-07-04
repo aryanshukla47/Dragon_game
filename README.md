@@ -4,16 +4,9 @@ Welcome to **iDragon Adventures**, a fun browser-based game where your dinosaur 
 
 ---
 
-## 🚀 Live Demo
-
-🎮 Play here: [GitHub Pages Demo](https://your-username.github.io/your-repo-name/)  
-*(Update the link after deploying via GitHub Pages)*
-
----
-
 ## 📸 Gameplay Screenshot
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/4247fe41-727b-4268-9f2d-617fc4a8bc99.png" width="800" alt="iDragon Game Screenshot">
+![image](https://github.com/user-attachments/assets/1b23f81f-471e-4907-91fa-df3281e9f327)
 
 ---
 
